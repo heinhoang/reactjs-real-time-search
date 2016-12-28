@@ -1,11 +1,11 @@
 # Reactjs Real Time Search
 We'll create our own search API to handle our requests
 
-# Using
+## Using
 - run `npm install` to install packages
 - run `npm run-script dev` to run server
 
-## features
+## Features
 
 - Creating your own search API
 - Connecting your API to MongoDB
@@ -20,7 +20,7 @@ We'll create our own search API to handle our requests
 - Pagination
 - Endless scrolling
 
-# Required 
+## Required 
 - Nodejs, ExpressJS to run server
 - ReactJS for app
 - MongoDB for database
